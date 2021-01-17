@@ -1,6 +1,6 @@
 project('cmsis-core-m', 'c',
     license : 'Apache-2.0',
-    version : '5.3.0',
+    version : '5.4.0',
     default_options : [
         'warning_level=2',
     ],
